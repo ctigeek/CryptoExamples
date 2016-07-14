@@ -41,8 +41,8 @@ namespace CryptoSamples
     [TestFixture]
     public class CryptoHashExamplesTest
     {
-        public const string PlainText = "blah blah blah";
-        public const string HashResult = "a74f733635a19aefb1f73e5947cef59cd7440c6952ef0f03d09d974274cbd6df";
+        public const string PlainText = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce maximus, velit non interdum finibus, nisi ligula egestas ligula, vitae sagittis est massa interdum massa. Cras hendrerit, neque et rutrum pulvinar, purus leo finibus orci, ut sagittis ligula erat sit amet felis. Sed urna odio, tincidunt ut gravida vel, fringilla sed quam. Donec eu pulvinar leo, non molestie neque. Aenean interdum sagittis ex eu suscipit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nunc ut mollis justo. Morbi pellentesque ligula id sapien sagittis, id luctus dolor dictum. Morbi et feugiat enim. Quisque eget porttitor nulla. Sed pharetra eu risus sed sodales. Etiam faucibus vel nulla vel blandit. Vestibulum sit amet sagittis mauris. Quisque luctus nunc eget enim suscipit vulputate.";
+        public const string HashResult = "91fa92f9efa5dabdfa3917c96001a0d90b70dd41d7f18e88a25a27ca771ef1b6";
         public CryptoHashExamples CryptoHashExamples;
 
         [SetUp]
